@@ -1,0 +1,63 @@
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.pdb
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\obj\Debug\Resources.resources
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.GenerateResource.Cache
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\SVN\SVN_NEW\ZeroTouch_SMS_IVR\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.pdb
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.pdb
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\obj\Debug\Resources.resources
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.GenerateResource.Cache
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\userdata\d57kumar\My Documents\Visual Studio 2010\Projects\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.pdb
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.pdb
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\Resources.resources
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.GenerateResource.Cache
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\SVN\AWE Core\New_server\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.pdb
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.pdb
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbprojResolveAssemblyReference.cache
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\Resources.resources
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.GenerateResource.Cache
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.CoreCompileInputs.cache
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.dll
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.xml
+D:\NEW SVN\Awe Core\trunk\Source\AWE_CORE_VFI\Source_Code\AWE.EMS_Sync\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.pdb
+C:\Rahul\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.dll
+C:\Rahul\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.pdb
+C:\Rahul\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.xml
+C:\Rahul\NSN.GNOCN.Tools.Logs\obj\Debug\Resources.resources
+C:\Rahul\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.GenerateResource.cache
+C:\Rahul\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.CoreCompileInputs.cache
+C:\Rahul\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.dll
+C:\Rahul\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.xml
+C:\Rahul\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.pdb
+C:\Rahul\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbprojAssemblyReference.cache
+C:\Ajay\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.dll
+C:\Ajay\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.pdb
+C:\Ajay\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.xml
+C:\Ajay\NSN.GNOCN.Tools.Logs\obj\Debug\Resources.resources
+C:\Ajay\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.GenerateResource.cache
+C:\Ajay\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.CoreCompileInputs.cache
+C:\Ajay\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.dll
+C:\Ajay\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.xml
+C:\Ajay\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.pdb
+C:\DCMcode\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.dll
+C:\DCMcode\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.pdb
+C:\DCMcode\NSN.GNOCN.Tools.Logs\bin\Debug\NSN.GNOCN.Tools.Logs.xml
+C:\DCMcode\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbprojAssemblyReference.cache
+C:\DCMcode\NSN.GNOCN.Tools.Logs\obj\Debug\Resources.resources
+C:\DCMcode\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.GenerateResource.cache
+C:\DCMcode\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.vbproj.CoreCompileInputs.cache
+C:\DCMcode\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.dll
+C:\DCMcode\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.xml
+C:\DCMcode\NSN.GNOCN.Tools.Logs\obj\Debug\NSN.GNOCN.Tools.Logs.pdb

@@ -1,0 +1,56 @@
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.SSHClient.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.SSHCommon.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\GNOCToolsSource\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\GNOCToolsSource\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\GNOCToolsSource\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\ResolveAssemblyReference.cache
+D:\GNOCToolsSource\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\GNOCToolsSource\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+C:\Temp\20140605\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+C:\Temp\20140605\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+C:\Temp\20140605\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.csprojResolveAssemblyReference.cache
+C:\Temp\20140605\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+C:\Temp\20140605\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\ResolveAssemblyReference.cache
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\WorkingFolder\Dev\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\WorkingFolder\Dev\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\WorkingFolder\Dev\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkingFolder\Dev\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\WorkingFolder\Dev\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\Nokia Tools\Deepak\VODAFONE\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\Nokia Tools\Deepak\VODAFONE\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+D:\Nokia Tools\Deepak\VODAFONE\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.csprojResolveAssemblyReference.cache
+D:\Nokia Tools\Deepak\VODAFONE\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+D:\Nokia Tools\Deepak\VODAFONE\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.dll
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.SSHClient.dll
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.SSHCommon.dll
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+C:\SVN\Source_Code\DCM\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.csprojResolveAssemblyReference.cache
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.dll
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\NSN.GNOCN.Tools.NELayer.pdb
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.dll
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.SSHClient.dll
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Debug\SecureBlackbox.SSHCommon.dll
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.csproj.CoreCompileInputs.cache
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.csproj.CopyComplete
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.dll
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.pdb
+C:\DCMcode\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Debug\NSN.GNOCN.Tools.NELayer.csprojAssemblyReference.cache

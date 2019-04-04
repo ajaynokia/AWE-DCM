@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <!--<add key="CSDBConstring" value="server=10.135.249.73;userid=tools;password=AutoTools432!;database=awe_dcm_vodafone;port=3306;"/>-->
+    <!--<add key="CSDBConstring" value="server=localhost;userid=root;password=sqlmy@U2;database=newDev1;port=3306;"/>-->
+    <add key="CSDBConstring" value="server=10.135.248.12;userid=awe_dcm_admin;password=awedcm12#$;database=awe_dcm_vodafone;port=3306;"/>
+    <add key="PSDBConstring" value="datasource=93.183.30.21;database=awe_paco_dcm;user id=root;password=tiger"/>
+    <!--<add key="SQLDBConstring" value="Server=10.135.249.69;Database=AWE_db_VFI_CS_DCM;User Id=tools;Password=!5l007!;"/>-->
+    <add key="SQLDBConstring" value="Server=10.135.248.12;Database=AWE_db_VFI_CS_DCM;User Id=tools;Password=AutoDial@123;" />
+    <add key="Vendor" value="NSN"/>
+    <add key="Client" value="VODAFONE"/>
+    <add key="CircleName" value="AP"/>
+    <add key ="XMLFile" value="C:\GNOCTools_Prod\DCM\CS\AP\MasterDb.XML"/>
+    <!--<add key ="XMLFile" value="C:\GNOCTools_Prod\DCM\CS\GUJ\MasterDb.XML"/>-->
+    <add key="CSStartTime" value="12:42"/>
+    <add key="ParsingStartTime" value="00:15"/>
+    <add key="IsPACO" value="True"/>
+    <add key="folderPathForDelete" value="C:\CS_DCM\DCM_RAW"/>
+    <add key="DaysForDeleteRawFile" value="10"/>
+  </appSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/>
+  </startup>
+</configuration>

@@ -1,0 +1,7 @@
+[11-Mar-19 1:29:46 PM] - Procedure:[ParseData_ZQRI()] - Error Message:[@11-Mar-19 1:29:46 PM[EGSAM01]: Count cannot be less than zero.
+Parameter name: count].
+[11-Mar-19 1:31:28 PM] - Procedure:[ReadFromFile_ATCA_SUB2()] - Error Message:[@11-Mar-19 1:31:28 PM[EGSAM03]: Could not find a part of the path 'C:\CS_DCM\DCM_RAW\11_03_2019\UPE\MSS\group_3\ZNES'.].
+[11-Mar-19 1:31:53 PM] - Procedure:[ReadFromFile_ATCA_SUB2()] - Error Message:[@11-Mar-19 1:31:53 PM[EGSAM03]: Could not find a part of the path 'C:\CS_DCM\DCM_RAW\11_03_2019\UPE\MSS\group_3\ZW7I'.].
+[11-Mar-19 3:31:21 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@11-Mar-19 3:31:21 PM[EMSAM01]: Index was outside the bounds of the array.].
+[11-Mar-19 3:31:21 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@11-Mar-19 3:31:21 PM[EMSAM02]: Index was outside the bounds of the array.].
+[11-Mar-19 3:31:22 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@11-Mar-19 3:31:22 PM[EMSAM03]: Index was outside the bounds of the array.].

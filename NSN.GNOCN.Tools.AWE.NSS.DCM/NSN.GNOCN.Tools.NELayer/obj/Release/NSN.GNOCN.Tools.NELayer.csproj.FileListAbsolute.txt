@@ -1,0 +1,16 @@
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Release\ResolveAssemblyReference.cache
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\NSN.GNOCN.Tools.NELayer.dll
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\NSN.GNOCN.Tools.NELayer.pdb
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\SecureBlackbox.dll
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\SecureBlackbox.SSHClient.dll
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\SecureBlackbox.SSHCommon.dll
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Release\NSN.GNOCN.Tools.NELayer.dll
+D:\GNOCToolsSource\dd\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Release\NSN.GNOCN.Tools.NELayer.pdb
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\NSN.GNOCN.Tools.NELayer.dll
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\NSN.GNOCN.Tools.NELayer.pdb
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\SecureBlackbox.dll
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\SecureBlackbox.SSHClient.dll
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\bin\Release\SecureBlackbox.SSHCommon.dll
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Release\ResolveAssemblyReference.cache
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Release\NSN.GNOCN.Tools.NELayer.dll
+D:\WorkingFolder\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.NELayer\obj\Release\NSN.GNOCN.Tools.NELayer.pdb

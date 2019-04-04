@@ -1,0 +1,19 @@
+[12-Mar-19 12:43:11 PM] - Procedure:[ParseData_ZQRI()] - Error Message:[@12-Mar-19 12:43:11 PM[EGSAM01]: Count cannot be less than zero.
+Parameter name: count].
+[12-Mar-19 12:44:33 PM] - Procedure:[ReadFromFile_ATCA_SUB2()] - Error Message:[@12-Mar-19 12:44:33 PM[EGSAM03]: Could not find a part of the path 'C:\CS_DCM\DCM_RAW\12_03_2019\UPE\MSS\group_3\ZNES'.].
+[12-Mar-19 12:45:13 PM] - Procedure:[ReadFromFile_ATCA_SUB2()] - Error Message:[@12-Mar-19 12:45:13 PM[EGSAM03]: Could not find a part of the path 'C:\CS_DCM\DCM_RAW\12_03_2019\UPE\MSS\group_3\ZW7I'.].
+[12-Mar-19 1:08:38 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@12-Mar-19 1:08:38 PM[EMSAM06]: Index was outside the bounds of the array.].
+[12-Mar-19 1:09:21 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@12-Mar-19 1:09:20 PM[EGSAM02]: Index was outside the bounds of the array.].
+[12-Mar-19 1:09:30 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@12-Mar-19 1:09:30 PM[EGSAM03]: Index was outside the bounds of the array.].
+[12-Mar-19 1:20:46 PM] - Procedure:[ParseData_ZQRI()] - Error Message:[@12-Mar-19 1:20:46 PM[EMSVR14]: Count cannot be less than zero.
+Parameter name: count].
+[12-Mar-19 1:20:46 PM] - Procedure:[ParseData_ZQRI()] - Error Message:[@12-Mar-19 1:20:46 PM[EVMGN25]: Count cannot be less than zero.
+Parameter name: count].
+[12-Mar-19 1:23:07 PM] - Procedure:[ParseData_ZQRI()] - Error Message:[@12-Mar-19 1:23:07 PM[EMSVR14]: Count cannot be less than zero.
+Parameter name: count].
+[12-Mar-19 1:23:07 PM] - Procedure:[ParseData_ZQRI()] - Error Message:[@12-Mar-19 1:23:07 PM[EVMGN25]: Count cannot be less than zero.
+Parameter name: count].
+[12-Mar-19 1:28:32 PM] - Procedure:[ReadFromFile_ATCA_SUB2()] - Error Message:[@12-Mar-19 1:28:32 PM[EVMGN25]: Could not find a part of the path 'C:\CS_DCM\DCM_RAW\12_03_2019\UPE\MSS\group_2\ZNES'.].
+[12-Mar-19 2:36:04 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@12-Mar-19 2:36:04 PM[EMSAM01]: Index was outside the bounds of the array.].
+[12-Mar-19 2:36:13 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@12-Mar-19 2:36:13 PM[EMSAM02]: Index was outside the bounds of the array.].
+[12-Mar-19 2:36:19 PM] - Procedure:[ASSOCIATION_ZRCI_withcontinue()] - Error Message:[@12-Mar-19 2:36:19 PM[EMSAM03]: Index was outside the bounds of the array.].

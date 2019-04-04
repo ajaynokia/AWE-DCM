@@ -1,0 +1,10 @@
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\bin\Debug\NSN.GNOCN.Tools.AWE.NSS.DCMProcess.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\bin\Debug\NSN.GNOCN.Tools.AWE.NSS.DCMProcess.pdb
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\bin\Debug\MySql.Data.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\bin\Debug\SecureBlackbox.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\bin\Debug\SecureBlackbox.SSHClient.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\bin\Debug\SecureBlackbox.SSHCommon.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\obj\Debug\NSN.GNOCN.Tools.AWE.NSS.DCMProcess.dll
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\obj\Debug\NSN.GNOCN.Tools.AWE.NSS.DCMProcess.pdb
+D:\Deepak\NSN.GNOCN.Tools.AWE.NSS.DCM\NSN.GNOCN.Tools.AWE.NSS.DCMProcess\bin\Debug\NSN.GNOCN.Tools.AWE.NSS.DCMProcess.dll.config

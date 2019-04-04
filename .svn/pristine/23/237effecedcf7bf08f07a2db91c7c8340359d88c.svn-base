@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<masterDetails>
+  <masterDetail>
+    <connectionString>server=10.135.248.12;userid=awe_dcm_admin;password=awedcm12#$;database=awe_dcm_vodafone;port=3306;</connectionString>
+    <circle>AP</circle>
+    <vendor>NSN</vendor>
+    <folderPath>C:\CS_DCM\DCM_RAW\</folderPath>
+    <errorFolderPath>C:\CS_DCM\DCM_RAW\PARSING_ERROR\</errorFolderPath>
+  </masterDetail>  
+</masterDetails>
